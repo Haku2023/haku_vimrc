@@ -1,4 +1,5 @@
 " Comments in Vimscript start with a `"`.
+" say hello
 
 " If you open this file in Vim, it'll be syntax highlighted for you.
 
